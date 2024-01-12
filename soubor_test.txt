@@ -1,13 +1,1 @@
-Continuous integration (CI) and continuous delivery (CD):
-- jsou tam sprinty?
-- vyvoj a prubezny testing v ramci sprintu?
-- CD pipeline?
-
-Git+Jenkins:
-- nahravany soubor do repositare musi byt ve slozce repositare na pocitaci?
-- The git add command in Git is used to add changes in your working directory to the staging area. The staging area is a temporary space where you can gather and review changes before committing them to the version control history.
--staging area je slozka, ktera je mym lokalnim repositarem, ktery mohu upravovat pred tim, jak commitnu do vetve? 
-- kdyz pouzivam git add, git zaznamenava jenom zmeny ve working directory? 
-- vzdy se pouziva git add + git commit? proc to neni sloucene?
-- commit znamena jen nahravani zmen? ne konkretnich souboru do vetve (push)?
-- 
+neco
