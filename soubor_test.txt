@@ -1,3 +1,9 @@
 neco
 
 test
+
+Continuous integration (CI) and continuous delivery (CD):
+- jsou tam sprinty?
+- vyvoj a prubezny testing v ramci sprintu?
+- CD pipeline?
+
